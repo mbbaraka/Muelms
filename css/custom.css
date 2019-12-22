@@ -1,0 +1,47 @@
+.menu-items {
+	color: #f8f9fa;
+}
+
+.menu-items:hover {
+	color: #f8f9fa;
+	zoom:1.05;
+}
+.navbar-menu .nav-item {
+	color: #f8f9fa;
+}
+footer a {
+	color: #f8f9fa;
+}
+footer a:hover {
+	color: #f8f2d0;
+	zoom: 1.02;
+}
+.login-card{
+	display: block;
+	border-radius: 0px,0px,5px,5px;
+	border: 2px;
+	border-color: #000;
+	background-color: black;
+}
+.icon {
+	color: #fff;
+	font-size: 50px;
+}
+.figure {
+	color: #fff;
+	font-size: 30px;
+	font-style: bold;
+}
+.desc {
+	color: #faf5f5;
+	font-size: 16px;
+}
+.link:hover {
+	color: #faf5f5;
+	font-size: 16px;
+	zoom:1.1;
+}
+.link {
+	color: #f0f0f0;
+	font-size: 16px;
+}
